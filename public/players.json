@@ -1,0 +1,152 @@
+[
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/316600/316605.jpg",
+    "player_name": "Tamim Iqbal",
+    "player_country": "Bangladesh",
+    "playing_role": "Batsman",
+    "rating": 88,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "price": "$120,000"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/316600/316601.jpg",
+    "player_name": "Mushfiqur Rahim",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicketkeeper-Batsman",
+    "rating": 85,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "price": "$100,000"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/316600/316602.jpg",
+    "player_name": "Mahmudullah",
+    "player_country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "rating": 83,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off-break",
+    "price": "$90,000"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/316600/316603.jpg",
+    "player_name": "Taskin Ahmed",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 84,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "price": "$95,000"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/316600/316604.jpg",
+    "player_name": "Mustafizur Rahman",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 86,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast-medium",
+    "price": "$110,000"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/316600/316606.jpg",
+    "player_name": "Mehidy Hasan Miraz",
+    "player_country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "rating": 82,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off-break",
+    "price": "$85,000"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/316600/316607.jpg",
+    "player_name": "Towhid Hridoy",
+    "player_country": "Bangladesh",
+    "playing_role": "Batsman",
+    "rating": 80,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off-break",
+    "price": "$75,000"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/316600/316608.jpg",
+    "player_name": "Liton Das",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicketkeeper-Batsman",
+    "rating": 83,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "price": "$90,000"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/316600/316609.jpg",
+    "player_name": "Shaheen Shah Afridi",
+    "player_country": "Pakistan",
+    "playing_role": "Bowler",
+    "rating": 91,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast",
+    "price": "$200,000"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/316600/316610.jpg",
+    "player_name": "Alex Hales",
+    "player_country": "England",
+    "playing_role": "Batsman",
+    "rating": 87,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "price": "$180,000"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/316600/316611.jpg",
+    "player_name": "Kyle Mayers",
+    "player_country": "West Indies",
+    "playing_role": "All-rounder",
+    "rating": 84,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "price": "$150,000"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/316600/316612.jpg",
+    "player_name": "Mohammad Nabi",
+    "player_country": "Afghanistan",
+    "playing_role": "All-rounder",
+    "rating": 85,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off-break",
+    "price": "$160,000"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/316600/316613.jpg",
+    "player_name": "Dawid Malan",
+    "player_country": "England",
+    "playing_role": "Batsman",
+    "rating": 86,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm leg-break",
+    "price": "$170,000"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/316600/316614.jpg",
+    "player_name": "Khushdil Shah",
+    "player_country": "Pakistan",
+    "playing_role": "All-rounder",
+    "rating": 82,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm orthodox",
+    "price": "$130,000"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/316600/316615.jpg",
+    "player_name": "Pathum Nissanka",
+    "player_country": "Sri Lanka",
+    "playing_role": "Batsman",
+    "rating": 83,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off-break",
+    "price": "$140,000"
+  }
+]
