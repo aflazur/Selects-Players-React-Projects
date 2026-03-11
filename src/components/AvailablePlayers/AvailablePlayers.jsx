@@ -1,7 +1,7 @@
 import React, { use } from 'react';
 import PlayerCard from '../PlayerCard/PlayerCard';
 
-const AvailablePlayers = ({ playersPromise, setAvailableBalance,availableBalance }) => {
+const AvailablePlayers = ({ playersPromise, setAvailableBalance,availableBalance, purchasedPlayers, setPurchasedPlayer }) => {
     const players = use(playersPromise);
     
     // console.log(players);
@@ -9,7 +9,7 @@ const AvailablePlayers = ({ playersPromise, setAvailableBalance,availableBalance
 
         <div className='w-11/12 mx-auto items-center grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4'>
             {
-                players.map(player => <PlayerCard availableBalance ={availableBalance} setAvailableBalance={setAvailableBalance} player={player}></PlayerCard>)
+                players.map(player => <PlayerCard purchasedPlayers={purchasedPlayers} setPurchasedPlayer={setPurchasedPlayer} availableBalance ={availableBalance} setAvailableBalance={setAvailableBalance} player={player}></PlayerCard>)
             }
 
         </div>
